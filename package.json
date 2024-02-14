@@ -1,0 +1,17 @@
+{
+    "name": "issueful-bot",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/anovicenko74/issueful-bot.git",
+    "author": "anovicenko74 <60508206+anovicenko74@users.noreply.github.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "dotenv": "^16.4.4",
+        "nodemon": "^3.0.3",
+        "typescipt": "^1.0.0",
+        "typescript": "^5.3.3"
+    },
+    "dependencies": {
+        "grammy": "^1.20.4"
+    }
+}
